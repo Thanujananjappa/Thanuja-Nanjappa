@@ -13,3 +13,4 @@ mul()
 print("multiplication");
 }
 }
+div();
