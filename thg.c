@@ -6,3 +6,4 @@ print("addition")
 }
 sub();
 }
+div();
