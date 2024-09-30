@@ -8,7 +8,7 @@ sub()
 {
   print("subtraction");
 }
-muk()
+mul()
 {
 print("multiplication");
 }
