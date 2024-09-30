@@ -8,3 +8,8 @@ sub()
 {
   print("subtraction");
 }
+muk()
+{
+print("multiplication");
+}
+}
