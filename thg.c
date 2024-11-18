@@ -1,9 +1,16 @@
-main(();
+main()
 {
 add()
 {
-print("addition")
+print("addition");
 }
-sub();
+sub()
+{
+  print("subtraction");
+}
+muk()
+{
+print("multiplication");
+}
 }
 div();
